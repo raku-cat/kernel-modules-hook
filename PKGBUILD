@@ -15,8 +15,8 @@ source=("linux-modules-cleanup.conf"
 		"UNLICENSE")
 sha256sums=('4169b44c297ddb7aad2220c6eba7c7942e3396f92528c59617955ab5560cb4cf'
             'f8d3ee1fc95f9a6c754aed063cfb5d3b0d6dbd35eb5c310988881e16cf665345'
-            '3b90321be042ea728e27bef530aeb22cecc4cd0aeda625ab4a72fb46dae3abee'
-            'dc99191391b847deecf81abded84b03eb832ca1b36e56a4a4deec8bf1332f051'
+            '3bb7a3e6e51666fdcfb9256318c6d4027f7dd088f75e7bd08e37631b659a721d'
+            '0648d4eb16dd2da1a51a3fcb31ac91f3b7ea936d52d6c47db4914a0ba565e30e'
             '7e12e5df4bae12cb21581ba157ced20e1986a0508dd10d0e8a4ab9a4cf94e85c')
 
 package() {
